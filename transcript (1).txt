@@ -1,0 +1,17 @@
+BOT: Hi, I can help you get quick answers or I can connect you with an agent. 
+
+USER: Cash App ••••••••/businesses/small-businesses-self-employed/backup-withholding_dropbox.com/scl/fi/n1nltgk43fb1nu89um.pngrlkey=92sapifavi8dy4qshxwrzhusx&dlCashapp$104014051877200 
+
+BOT: You’ve reached the Square Point of Sale Support site. 
+
+If you need help with Cash App, use the link below for further assistance ⬇️ 
+BOT: https://cash.app/help 
+BOT: Or call Cash App Support at: 
+BOT: tel:+18009691940 
+
+USER: In-app steps 
+
+BOT: You can also reach out to Cash App Support directly from Cash App: 
+BOT: 1️⃣  Tap your profile image in the top left. 
+BOT: 2️⃣  Tap ‘Support’. If you are unable to find your answer listed, tap ‘Something Else’. 
+BOT: 3️⃣  Select a reason ➡️  Tap ‘Contact Support’. 
